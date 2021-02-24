@@ -1,4 +1,4 @@
-#JSON loader to Azure CosmosDB
+# JSON loader to Azure CosmosDB
 
 This is a node.js app that serves the following:
 _ read a local json file from a local directory
